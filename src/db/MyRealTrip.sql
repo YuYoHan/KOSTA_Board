@@ -1,3 +1,4 @@
+# 데이터 베이스 생성
 create database myRealTrip;
 use myRealTrip;
 
